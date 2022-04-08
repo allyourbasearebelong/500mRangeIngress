@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id             iitc-plugin-submitrange@wintervorst
-// @name           IITC plugin: Portal submitrange
+// @name           IITC plugin: Portal 500m range
 // @category       Layer
 // @version        1.0.12.20190613.013370
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
