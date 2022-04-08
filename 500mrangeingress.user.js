@@ -1,5 +1,5 @@
 // ==UserScript==
-// @id             iitc-plugin-submitrange@wintervorst
+// @id             iitc-plugin-portal500range@wintervorst
 // @name           IITC plugin: Portal 500m range
 // @category       Layer
 // @version        1.0.12.20190613.013370
